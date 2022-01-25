@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafael Nascimento
+## Olá, eu sou Rafael Nascimento
 <div align="center">
   <a href="https://github.com/rxfx5l">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rxfx5l&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
